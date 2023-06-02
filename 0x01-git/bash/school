@@ -1,1 +1,2 @@
-echo schoo
+#!/bin/bash
+echo school
